@@ -21,3 +21,5 @@ A simple RSS reader for [PartTimeLegend.co.uk](http://www.parttimelegend.co.uk).
 I will be working on it as I have time.
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/PartTimeLegend.co.ukRSS.png)](https://travis-ci.org/PartTimeLegend/PartTimeLegend.co.ukRSS)
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/PartTimeLegend.co.ukRSS&title=PartTimeLegend.co.uk RSS&language=&tags=github&category=software) 
